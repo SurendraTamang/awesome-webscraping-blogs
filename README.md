@@ -1,1 +1,11 @@
-# awesome-webscraping-blogs
+# List of Web Scraping Technical Blogs
+
+This is a curated list of awesome webscraping technical blogs from research to deployment.
+Feel free to add more on this topic
+
+## Website 
+* [Apiy Blog](https://blog.apify.com/)
+
+
+## Tutorial
+* [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
