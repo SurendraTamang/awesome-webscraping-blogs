@@ -9,3 +9,8 @@ Feel free to add more on this topic
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+
+
+
+## Webinars
+* [How to Successfully Collect Public Data in 2023](https://www.youtube.com/watch?v=EERwCHI09z0)
