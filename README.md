@@ -5,7 +5,7 @@ Feel free to add more on this topic
 
 ## Website 
 * [Apiy Blog](https://blog.apify.com/)
-
+* [Smartproxy Blog](https://smartproxy.com/blog)
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
