@@ -9,6 +9,7 @@ Feel free to add more on this topic
 ## Video Tutorial
 * [Scrapy Course – Python Web Scraping for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=mBoX_JCKZTE)
 * [Scaling Web Scraping: Concurrency vs Parallelism](https://www.youtube.com/watch?v=zyil8asDCwk)
+* [Scrapy Redis: Scaling Your Scrapy Spiders Using Distributed Worker](https://www.youtube.com/watch?v=ZoosqkROKOI)
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
