@@ -10,6 +10,7 @@ Feel free to add more on this topic
 * [Scrapy Course – Python Web Scraping for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=mBoX_JCKZTE)
 * [Scaling Web Scraping: Concurrency vs Parallelism](https://www.youtube.com/watch?v=zyil8asDCwk)
 * [Scrapy Redis: Scaling Your Scrapy Spiders Using Distributed Worker](https://www.youtube.com/watch?v=ZoosqkROKOI)
+* [Accelerating Data-On-Demand Services With Async Python and AWS](https://www.youtube.com/watch?v=9_K2UxEk0NA) - OxyCon
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
