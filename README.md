@@ -14,6 +14,7 @@ Feel free to add more on this topic
 * [Scrapy Crawl Spider - A Complete Guide](https://www.youtube.com/watch?v=MaPyt6dpnVY)
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+* [Realtor-Scraping - JWT Token ](https://www.youtube.com/watch?v=jjCY1_zg8XI)
 
 ## Blogs
 * [Web Crawler: What It Is, How It Works & Applications in 2023](https://research.aimultiple.com/web-crawler/)
