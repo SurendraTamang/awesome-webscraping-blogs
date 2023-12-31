@@ -12,6 +12,8 @@ Feel free to add more on this topic
 * [Scrapy Redis: Scaling Your Scrapy Spiders Using Distributed Worker](https://www.youtube.com/watch?v=ZoosqkROKOI)
 * [Accelerating Data-On-Demand Services With Async Python and AWS](https://www.youtube.com/watch?v=9_K2UxEk0NA) - OxyCon
 * [Scrapy Crawl Spider - A Complete Guide](https://www.youtube.com/watch?v=MaPyt6dpnVY)
+* [Talk - Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=eVdHmaE3tSM) - PyCon US 2022
+* [Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=rqptf1Z1NBU) - PyCascades 2019
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 * [Realtor-Scraping - JWT Token ](https://www.youtube.com/watch?v=jjCY1_zg8XI)
