@@ -14,6 +14,7 @@ Feel free to add more on this topic
 * [Scrapy Crawl Spider - A Complete Guide](https://www.youtube.com/watch?v=MaPyt6dpnVY)
 * [Talk - Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=eVdHmaE3tSM) - PyCon US 2022
 * [Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=rqptf1Z1NBU) - PyCascades 2019
+* [How to use ChatGPT for custom data extraction](https://vimeo.com/901868934/d01d135f2a?share=copy)
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 * [Realtor-Scraping - JWT Token ](https://www.youtube.com/watch?v=jjCY1_zg8XI)
