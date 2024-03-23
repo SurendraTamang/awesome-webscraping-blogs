@@ -15,6 +15,7 @@ Feel free to add more on this topic
 * [Talk - Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=eVdHmaE3tSM) - PyCon US 2022
 * [Josh Weissbock: Distributed Web Scraping in Python](https://www.youtube.com/watch?v=rqptf1Z1NBU) - PyCascades 2019
 * [Django + Celery + Selenium to Scrape Anything with Python](https://www.youtube.com/watch?v=rfM3Jli81fU) - CodingEntrepreneurs YT
+* [Building a scalable focused web crawler with Flink - Ken Krugler](https://www.youtube.com/watch?v=yh4JKpSfHkA) - Flink Forward San Francisco, April 2018
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
