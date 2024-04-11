@@ -17,6 +17,7 @@ Feel free to add more on this topic
 * [Django + Celery + Selenium to Scrape Anything with Python](https://www.youtube.com/watch?v=rfM3Jli81fU) - CodingEntrepreneurs YT
 * [Building a scalable focused web crawler with Flink - Ken Krugler](https://www.youtube.com/watch?v=yh4JKpSfHkA) - Flink Forward San Francisco, April 2018
 * [Building a Web Crawler from Scratch in Node.js](https://www.youtube.com/watch?v=C0pXaNchNTA) - Youtube (Boot dev)
+* [ScrapeCon 2024](https://www.youtube.com/playlist?list=PLFgLa9oxPE0fPLJtTD1G-G9ZSEf_MS2eh)-Youtube Playlists | ScrapeCon | BrightData
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
