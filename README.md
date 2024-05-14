@@ -1,6 +1,6 @@
 # List of Web Scraping Technical Blogs
 
-This is a curated list of awesome webscraping technical blogs from research to deployment.
+This is a curated list of awesome webscraping technical blogs and vidoes from research to deployment.
 Feel free to add more on this topic
 
 ## Website 
@@ -18,6 +18,7 @@ Feel free to add more on this topic
 * [Building a scalable focused web crawler with Flink - Ken Krugler](https://www.youtube.com/watch?v=yh4JKpSfHkA) - Flink Forward San Francisco, April 2018
 * [Building a Web Crawler from Scratch in Node.js](https://www.youtube.com/watch?v=C0pXaNchNTA) - Youtube (Boot dev)
 * [ScrapeCon 2024](https://www.youtube.com/playlist?list=PLFgLa9oxPE0fPLJtTD1G-G9ZSEf_MS2eh)-Youtube Playlists | ScrapeCon | BrightData
+* [Effective Ways to Scale-Up and Maintain Your Web Crawling Project](https://www.youtube.com/watch?v=pLucY2PoSts) - Kevin Lloyd Bernal｜PyCon APAC 2022
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
