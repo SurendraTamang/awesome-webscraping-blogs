@@ -28,6 +28,7 @@ Feel free to add more on this topic
 * [Web Crawler: What It Is, How It Works & Applications in 2023](https://research.aimultiple.com/web-crawler/)
 * [Serverless Web Scraping with Scrapy and AWS Lambda](https://oxylabs.io/blog/scrapy-aws-lambda)
 * [Web Scraping Speed](https://scrapfly.io/blog/web-scraping-speed/)
+* [Scrapy Rotating Proxies](https://scrapeops.io/python-scrapy-playbook/scrapy-rotating-proxy-guide/)
 
 ## Webinars
 * [How to Successfully Collect Public Data in 2023](https://www.youtube.com/watch?v=EERwCHI09z0)
