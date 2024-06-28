@@ -19,7 +19,7 @@ Feel free to add more on this topic
 * [Building a Web Crawler from Scratch in Node.js](https://www.youtube.com/watch?v=C0pXaNchNTA) - Youtube (Boot dev)
 * [ScrapeCon 2024](https://www.youtube.com/playlist?list=PLFgLa9oxPE0fPLJtTD1G-G9ZSEf_MS2eh)-Youtube Playlists | ScrapeCon | BrightData
 * [Effective Ways to Scale-Up and Maintain Your Web Crawling Project](https://www.youtube.com/watch?v=pLucY2PoSts) - Kevin Lloyd Bernal｜PyCon APAC 2022
-* [Fabien Vauchelles. Cracking the Code: Decoding Anti-Bot Systems](https://www.youtube.com/watch?v=qEbIMYZ_eM4) - OpenSouthCode24 (Spanish little)
+* [Fabien Vauchelles. Cracking the Code: Decoding Anti-Bot Systems](https://www.youtube.com/watch?v=qEbIMYZ_eM4) - OpenSouthCode24 
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
