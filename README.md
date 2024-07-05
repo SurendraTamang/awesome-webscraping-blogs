@@ -20,7 +20,7 @@ Feel free to add more on this topic
 * [ScrapeCon 2024](https://www.youtube.com/playlist?list=PLFgLa9oxPE0fPLJtTD1G-G9ZSEf_MS2eh)-Youtube Playlists | ScrapeCon | BrightData
 * [Effective Ways to Scale-Up and Maintain Your Web Crawling Project](https://www.youtube.com/watch?v=pLucY2PoSts) - Kevin Lloyd Bernal｜PyCon APAC 2022
 * [Fabien Vauchelles. Cracking the Code: Decoding Anti-Bot Systems](https://www.youtube.com/watch?v=qEbIMYZ_eM4) - OpenSouthCode24 
-
+* [Scalable Data Processing (Nepali Language)](https://www.youtube.com/watch?v=2qc9gkjtzS8) - Python Nepal Meetup #8
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 * [Realtor-Scraping - JWT Token ](https://www.youtube.com/watch?v=jjCY1_zg8XI)
