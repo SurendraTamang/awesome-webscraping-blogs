@@ -33,3 +33,12 @@ Feel free to add more on this topic
 
 ## Webinars
 * [How to Successfully Collect Public Data in 2023](https://www.youtube.com/watch?v=EERwCHI09z0)
+
+
+
+# Antibot Detection
+List of websites, blogs, videos related to antibot detection :). Think from other side.
+## Websites
+* [DEVICE AND BROWSER INFO](https://deviceandbrowserinfo.com/) - Information about fingerprints, chrome api, proxy
+* [DataDome Blog](https://datadome.co/blog/) - Some techniques can be found
+* [Antoine Vastel Blog](https://antoinevastel.com/)
