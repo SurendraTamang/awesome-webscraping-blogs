@@ -21,6 +21,7 @@ Feel free to add more on this topic
 * [Effective Ways to Scale-Up and Maintain Your Web Crawling Project](https://www.youtube.com/watch?v=pLucY2PoSts) - Kevin Lloyd Bernal｜PyCon APAC 2022
 * [Fabien Vauchelles. Cracking the Code: Decoding Anti-Bot Systems](https://www.youtube.com/watch?v=qEbIMYZ_eM4) - OpenSouthCode24 
 * [Scalable Data Processing (Nepali Language)](https://www.youtube.com/watch?v=2qc9gkjtzS8) - Python Nepal Meetup #8
+* [About scraping and the anti-bot industry - with Nick Rieniets CTO at Kasada](https://www.youtube.com/watch?v=1wtQAoBZLTg&t=1s) - Youtube (The Web Scraping Club)
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 * [Realtor-Scraping - JWT Token ](https://www.youtube.com/watch?v=jjCY1_zg8XI)
