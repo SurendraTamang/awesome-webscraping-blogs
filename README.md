@@ -53,3 +53,6 @@ List of websites, blogs, videos related to antibot detection :). Think from othe
 * [DEVICE AND BROWSER INFO](https://deviceandbrowserinfo.com/) - Information about fingerprints, chrome api, proxy
 * [DataDome Blog](https://datadome.co/blog/) - Some techniques can be found
 * [Antoine Vastel Blog](https://antoinevastel.com/)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=surendratamang/awesome-webscraping-blogs&type=Date)](https://star-history.com/#surendratamang/awesome-webscraping-blogs&Date)
