@@ -33,6 +33,9 @@ Feel free to add more on this topic.
 * [Scalable Data Processing (Nepali Language)](https://www.youtube.com/watch?v=2qc9gkjtzS8) - Python Nepal Meetup #8
 * [About scraping and the anti-bot industry - with Nick Rieniets CTO at Kasada](https://www.youtube.com/watch?v=1wtQAoBZLTg&t=1s) - Youtube (The Web Scraping Club)
 
+## Mobile Scraping Tutorail
+* [https://www.youtube.com/watch?v=-2hQU15IzzU](https://www.youtube.com/watch?v=-2hQU15IzzU)- Youtube
+
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 * [Realtor-Scraping - JWT Token](https://www.youtube.com/watch?v=jjCY1_zg8XI)
