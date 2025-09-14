@@ -34,7 +34,7 @@ Feel free to add more on this topic.
 * [About scraping and the anti-bot industry - with Nick Rieniets CTO at Kasada](https://www.youtube.com/watch?v=1wtQAoBZLTg&t=1s) - Youtube (The Web Scraping Club)
 
 ## Mobile Scraping Tutorail
-* [https://www.youtube.com/watch?v=-2hQU15IzzU](https://www.youtube.com/watch?v=-2hQU15IzzU)- Youtube
+* [Unlocking Hidden API Data: Man in the Middle Proxy - Introduction to MITMProxy's Practical Power](https://www.youtube.com/watch?v=-2hQU15IzzU)- Youtube
 
 ## Tutorial
 * [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
